@@ -1,0 +1,79 @@
+[
+    {
+        "id": "bbc_news_1",
+        "name": "BBC News",
+        "author": "Jane Smith",
+        "title": "Another Important Event",
+        "description": "Details about another important event happening around the world.",
+        "url": "https://www.bbc.com/news/world/2024/importantevent",
+        "urlToImage": "https://cdn.bbc.com/news/images/important-event.jpg",
+        "publishedAt": "2024-09-08T10:20:00Z",
+        "content": "This is the full article content for the important event happening globally."
+    },
+    {
+        "id": "cnn_news_1",
+        "name": "CNN",
+        "author": "John Doe",
+        "title": "Global Summit Highlights",
+        "description": "Key takeaways from the recent global summit.",
+        "url": "https://www.cnn.com/world/2024/global-summit",
+        "urlToImage": "https://cdn.cnn.com/images/global-summit.jpg",
+        "publishedAt": "2024-09-07T15:00:00Z",
+        "content": "This article covers the major highlights from the recent global summit."
+    },
+    {
+        "id": "nytimes_news_1",
+        "name": "The New York Times",
+        "author": "Alice Johnson",
+        "title": "Economic Trends of 2024",
+        "description": "An analysis of the economic trends for the year 2024.",
+        "url": "https://www.nytimes.com/2024/economic-trends",
+        "urlToImage": "https://cdn.nytimes.com/images/economic-trends.jpg",
+        "publishedAt": "2024-09-06T08:45:00Z",
+        "content": "A comprehensive analysis of the economic trends expected for 2024."
+    },
+    {
+        "id": "reuters_news_1",
+        "name": "Reuters",
+        "author": "Emily Davis",
+        "title": "Tech Innovations in 2024",
+        "description": "A look at the most significant tech innovations this year.",
+        "url": "https://www.reuters.com/tech/2024/innovations",
+        "urlToImage": "https://cdn.reuters.com/images/tech-innovations.jpg",
+        "publishedAt": "2024-09-05T12:00:00Z",
+        "content": "An overview of the key technological innovations making headlines in 2024."
+    },
+    {
+        "id": "forbes_news_1",
+        "name": "Forbes",
+        "author": "Michael Lee",
+        "title": "Top 10 Business Leaders",
+        "description": "Profiles of the top 10 business leaders of the year.",
+        "url": "https://www.forbes.com/business-leaders-2024",
+        "urlToImage": "https://cdn.forbes.com/images/business-leaders.jpg",
+        "publishedAt": "2024-09-04T09:30:00Z",
+        "content": "Detailed profiles of the top 10 business leaders shaping the industry in 2024."
+    },
+    {
+        "id": "guardian_news_1",
+        "name": "The Guardian",
+        "author": "Sarah Brown",
+        "title": "Climate Change Initiatives",
+        "description": "New initiatives to combat climate change.",
+        "url": "https://www.theguardian.com/environment/2024/climate-change-initiatives",
+        "urlToImage": "https://cdn.theguardian.com/images/climate-initiatives.jpg",
+        "publishedAt": "2024-09-03T16:10:00Z",
+        "content": "An in-depth look at new initiatives aimed at tackling climate change."
+    },
+    {
+        "id": "abc_news_1",
+        "name": "ABC News",
+        "author": "Lucas Green",
+        "title": "Health Trends for 2024",
+        "description": "Emerging health trends and their impact on society.",
+        "url": "https://www.abcnews.com/health-trends-2024",
+        "urlToImage": "https://cdn.abcnews.com/images/health-trends.jpg",
+        "publishedAt": "2024-09-02T14:20:00Z",
+        "content": "An overview of the emerging health trends and their implications for 2024."
+    }
+]
